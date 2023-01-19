@@ -1,0 +1,3 @@
+
+
+https://www.php.net/manual/ru/function.require-once.php

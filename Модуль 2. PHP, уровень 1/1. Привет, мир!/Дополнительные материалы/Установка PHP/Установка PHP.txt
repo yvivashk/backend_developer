@@ -1,0 +1,6 @@
+
+
+Установка PHP на LInux - https://htmlacademy.ru/blog/php/installation-php-on-different-os
+
+
+Установка PHP в Windows - http://iantonov.me/page/ustanovka-php-71-v-windows-komandnaja-stroka
